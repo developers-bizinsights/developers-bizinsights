@@ -1,20 +1,7 @@
-## Department
-# .NET C# Team
-net-projectname
-  main
-  developer
-# jquery Team
-framework-projectname
-  main
-  developer
-# iOS Team
-iOS-projectname
-  main
-  developer
-# Andriod Team 
-Andriod-projectname
-  main
-  developer
+- net-projectname
+- framework-projectname
+- iOS-projectname
+- Andriod-projectname
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
