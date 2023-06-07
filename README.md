@@ -7,11 +7,11 @@ net-projectname
 framework-projectname
   main
   developer
-# ios Team
-ios-projectname
+# iOS Team
+iOS-projectname
   main
   developer
-# andriod Team 
-andriod-projectname
+# Andriod Team 
+Andriod-projectname
   main
   developer
